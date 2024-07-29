@@ -1,0 +1,624 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logo.png",
+            "ascent": 0,
+            "height": 30,
+            "chars": [
+                "\u00CD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logo-farm.png",
+            "ascent": 0,
+            "height": 30,
+            "chars": [
+                "\u01FD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/helper.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00DA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/helper-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00FF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/moder.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00FE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/moder-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00FD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/prezident.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00FC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/prezident-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00FB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/admin.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00FA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/admin-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00F9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/guard.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00F8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/guard-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00F6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/discord.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00F5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/buget.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00F4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/buget-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00F3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cookie.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00F2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cookie-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00F1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sudya.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u01FF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sudya-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u01FE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/farm_world.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00C9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/build_world.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u00CA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/bust-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C60"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/bust-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C61"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hhero-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C62"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hhero-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C63"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hero-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C64"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hero-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C65"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/book-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C66"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/book-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C67"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/galax-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C68"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/galax-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C69"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/coffe-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C6A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/coffe-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C6B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/curator-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C6C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/curator-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C6D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/fire-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C6E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/fire-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C6F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cap-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C70"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cap-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u2C71"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/axolot-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03FF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/axolot-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03FE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blackheart-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03FD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blackheart-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03FC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ch-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03FA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ch-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03F9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/crystall-ice-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03F8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/crystall-ice-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03F7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/flower-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03F6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/flower-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03F5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/frog-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03F4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/frog-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03EF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/night-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03EE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/night-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03ED"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pepe-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03EC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pepe-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03EB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pink-clouds-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03EA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pink-clouds-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03E9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/salmon-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03E8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/salmon-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03E7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/warden-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03E6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/warden-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03E5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pikachu2-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u050F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pikachu2-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u050E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pikachu-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u050B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pikachu-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u050A"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/crt-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03DC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/crt-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03DD"
+            ]
+             {
+            "type": "bitmap",
+            "file": "minecraft:font/crt-build.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03DC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/crt-farm.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u03DD"
+            ]
+        }
+    ]
+}
